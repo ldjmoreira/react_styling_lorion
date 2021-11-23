@@ -1,0 +1,17 @@
+.list {
+  width: 35rem;
+  max-width: 90%;
+  margin: 3rem auto;
+}
+
+.list p {
+  text-align: center;
+}
+.unique {
+  margin: 1rem 0;
+  background: #8b005d;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
